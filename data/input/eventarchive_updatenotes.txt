@@ -1,0 +1,18 @@
+** 12:24 AM Monday, June 27, 2022 **
+
+- later than usual to compelte the magazine update and because of never ending spell check (still working on it.)
+
+- parser header still is workng automatically but it's there
+
+
+** 10:54 AM Saturday, May 14, 2022 **
+
+- added parser header to archive
+
+- currently adding lineups/results from a miscellanous batch of magazines from the 90s and 00s, filling in blanks for major buildings (CMLL CDMX, Torero/Neza, a few AAA TV) as well as leser places. I expect to still be working on this project through the June update
+
+- standardized "UWA" results, now labeling them either MORA or LLI (or LLI TV in rare cases) from before or after Francisco Flores' death. This seems more accurate to how they were promoted at the time. 
+
+** 6:17 PM Saturday, May 13, 2023 **
+
+- major format change: archive is now broken down to avoid file size restriction.
